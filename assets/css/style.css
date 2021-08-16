@@ -101,6 +101,19 @@ p {
 }
 /* Styling for Main Content Section Ends */
 
+/* Styling for Footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+/* Styling for Footer Ends */
+
 /* Styling for Benefits Section */
 .benefits {
     margin-right: 20px;
@@ -113,7 +126,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits {
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -129,16 +142,3 @@ p {
     max-width: 150px;
 }
 /* Styling for Benefits Section Ends */
-
-/* Styling for Footer */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-/* Styling for Footer Ends */
