@@ -43,13 +43,26 @@ header nav ul li {
 }
 /* Header Style Ends */
 
-/* style for <a> */
+/* Styling for Footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+/* Styling for Footer Ends */
+
+/* Style for all anchored lines of code */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Paragraph Style */
+/* Style for each paragaph */
 p {
     font-size: 16px;
 }
@@ -100,19 +113,6 @@ p {
     font-size: 36px;
 }
 /* Styling for Main Content Section Ends */
-
-/* Styling for Footer */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-/* Styling for Footer Ends */
 
 /* Styling for Benefits Section */
 .benefits {
