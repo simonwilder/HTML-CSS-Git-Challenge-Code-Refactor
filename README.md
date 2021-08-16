@@ -6,7 +6,7 @@ For this project, I was tasked with delivering a codebase that follows accessibi
 ![Horiseon Solution Services - ](https://user-images.githubusercontent.com/29153666/129517787-987d18e1-b4b5-4a89-b6db-f285bad543f2.png)
 
 Please also find a link to both the repository and the project here: 
-- Repository:
+- Repository: https://github.com/simonwilder/Horiseon-Solution-Services
 - Active Landing Page: 
 
 
