@@ -7,8 +7,7 @@ For this project, I was tasked with delivering a codebase that follows accessibi
 
 Please also find a link to both the repository and the project here: 
 - Repository: https://github.com/simonwilder/Horiseon-Solution-Services
-- Active Landing Page: 
-
+- Active Landing Page: https://simonwilder.github.io/Horiseon-Solution-Services/
 
 
 
